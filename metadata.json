@@ -1,0 +1,6 @@
+{
+  "name": "Restaurant",
+  "description": "An elegant, interactive restaurant menu and online ordering platform for Abraham, styled with a modern editorial aesthetic, smooth animations, dynamic food galleries, and a frictionless checkout system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
